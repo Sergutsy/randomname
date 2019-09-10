@@ -28,5 +28,5 @@ void MainWindow::on_pushButton_calc_clicked()
     ui->label_BMI->show();
 
     ui->label_BMI->setText(QString::number(BMI));
-    //КОММЕНТАРИЙ КАПСОМ АААААА СТРАШНАААА
+    //ИСПРАВЛЕННЫЙ КОММЕНТАРИЙ КАПСОМ АААААА
 }
